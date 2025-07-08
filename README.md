@@ -28,9 +28,9 @@
 
 - ⚡ Fun fact _Time, Tide and JavaScript waits for none._
 
-- 📫 How to reach me *vthanush666@gmail.com*
+- 📫 How to reach me *jennifergunasekaran@gmail.com*
 
-- ⚓ <a href="https://drive.google.com/file/d/1mixdRBeBUDqr9qvH-HW2D2EVe6ps7vu3/view?usp=drive_link" download>
+- ⚓ <a href="" download>
    <button>Download Resume</button>
 </a>
 <br>
