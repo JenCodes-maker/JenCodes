@@ -3,7 +3,10 @@
 <h1 align="center">Hi there! I'm Jennifer G <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
  <br> 
  
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=b440e2&size=24&width=500&lines=Full-Stack+Web+Development;Front+End+developer;Back+End+developer;Nice+to+meet+you...)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=b440e2&size=24&width=500&lines=Full+Stack+Developer;MERN+Stack+Engineer;Passionate+Coder;Creative+Thinker" />
+</p>
+
 
  <h3 align="center" margin="0px">I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.</h3>
  
