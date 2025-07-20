@@ -39,7 +39,7 @@
 <h2 align="center"><i>Tech Stack </i></h2>
 <p align="center">
   <a >
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,php,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,nodejs"/>
    <!-- redux,bootstrap,express,jquery,materialui,mongodb  -->
   </a>
 </p>
@@ -70,7 +70,7 @@
 <h2 align="center"><i>Tools | Use</i></h2>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=git,github,powershell,anaconda,vscode,visualstudio,npm" />
+    <img src="https://skillicons.dev/icons?i=git,github,powershell,anaconda,vscode" />
   </a>
 </p>
 <!--   <a >
@@ -107,10 +107,6 @@
     <img align="center" src="https://cdn-icons-png.flaticon.com/128/888/888853.png" width="50px" alt="mail-me" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://wa.me/917397187850" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px" alt="whatsapp-me" />
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
-
   <a href="https://github.com/JenCodes-maker" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=github" alt="github" />
   </a>
@@ -119,19 +115,7 @@
 
  <!--  <a href="https://twitter.com/madavanaru?s=20&t=casGFqKvivZrUiWdPyUosQ" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter"  alt="portfolio" /></a> -->
 </p>
-<h2>📊  Github Stats</h2>
-<br/>
-<div>
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Thanush2001&show_icons=true&theme=midnight-purple" />
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanush2001&layout=compact&theme=midnight-purple" />
-</div>
- <br />
- <!--  <p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Thanush2001&theme=rogue" alt="activitygraph" /> </p> -->
-<br />
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanush2001&theme=vision-friendly-dark" alt=""/></p>
-<!--  <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Thanush2001&no-frame=true" alt=""/></p> 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Thanush2001&no-frame=true" alt=""/></p> -->
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thanush2001&theme=tokyonight" alt="summarycard"/> </p>
+
 
 <hr />
 
@@ -139,7 +123,4 @@
  Show some ❤️ by starring some of the repositories!
 </h3>
 <br>
-    <h3 align="center"> 
-  Visitor count <br><br>
-  <img  src="https://profile-counter.glitch.me/Thanush2001/count.svg" />
-</h3>
+
