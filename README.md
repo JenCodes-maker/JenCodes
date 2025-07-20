@@ -13,7 +13,7 @@
        height="200px" width="auto" align="right"  />  -->
   <img  src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47l06umvnncegq4h2aklpuxyqjt8c69rd96evrta7e&rid=giphy.gif&ct=g" height="280px" align="right"  />
       
-- 🙋‍♂️ All about me is at **[My Website]()**
+- 🙋‍♂️ All about me is at **[Website]()**
 
 - 🔭 I’m currently working on `Something Intresting`.
  
@@ -27,7 +27,7 @@
 
 - ⚡ Fun fact _Time, Tide and JavaScript waits for none._
 
-- 📫 How to reach me *vthanush666@gmail.com*
+- 📫 How to reach me *jennifergunasekaran@gmail.com*
 
 - ⚓ <a href="https://github.com/JenCodes-maker/JenCodes/raw/main/Jennifer_G_Resume.pdf" download>
    <button>Download Resume</button>
@@ -39,7 +39,7 @@
 <h2 align="center"><i>Tech Stack </i></h2>
 <p align="center">
   <a >
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,java,py,mysql,php,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,php,nodejs"/>
    <!-- redux,bootstrap,express,jquery,materialui,mongodb  -->
   </a>
 </p>
@@ -70,7 +70,7 @@
 <h2 align="center"><i>Tools | Use</i></h2>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=bash,codepen,firebase,git,github,netlify,powershell,anaconda,vscode,visualstudio,npm,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=git,github,powershell,anaconda,vscode,visualstudio,npm" />
   </a>
 </p>
 <!--   <a >
