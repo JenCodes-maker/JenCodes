@@ -28,7 +28,7 @@
 
 - ⚡ Fun fact _Time, Tide and JavaScript waits for none._
 
-- 📫 How to reach me *jennifergunasekaran@gmail.com*
+- 📫 You can reach me at: Email:*jennifergunasekaran@gmail.com* <br> Linkedin:*www.linkedin.com/in/jennifergunasekaran*
 
 - ⚓ <a href="" download>
    <button>Download Resume</button>
